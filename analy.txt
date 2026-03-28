@@ -1,0 +1,15 @@
+Analyzing chatapp...
+
+  error - lib\widgets\voice_pro_upsell.dart:37:15 - Arguments of a constant creation must be constant expressions. Try making the argument a valid constant, or use 'new' to call the constructor. - const_with_non_constant_argument
+  error - lib\widgets\voice_pro_upsell.dart:37:27 - The getter 'micVocal' isn't defined for the type 'LucideIcons'. Try importing the library that defines 'micVocal', correcting the name to the name of an existing getter, or defining a getter or field named 'micVocal'. - undefined_getter
+  error - lib\widgets\voice_pro_upsell.dart:64:40 - The getter 'waveform' isn't defined for the type 'LucideIcons'. Try importing the library that defines 'waveform', correcting the name to the name of an existing getter, or defining a getter or field named 'waveform'. - undefined_getter
+   info - lib\screens\chat_screen.dart:113:64 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\chat_screen.dart:144:53 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\chat_screen.dart:149:47 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\chat_screen.dart:182:59 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\chat_screen.dart:206:55 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\screens\home_screen.dart:112:64 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\widgets\voice_pro_upsell.dart:33:46 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - lib\widgets\voice_pro_upsell.dart:117:33 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+
+11 issues found.
